@@ -8,7 +8,7 @@ In this notebook, I explore the end-to-end process of fine-tuning a language mod
 ## 🛠️ Tech Stack & Tools
 - **Language:** Python
 - **Environment:** Jupyter Notebook (`.ipynb`)
-- **Libraries:** (e.g., Hugging Face Transformers, Datasets, PyTorch, PEFT/LoRA — *update based on your exact tools*)
+- **Libraries:**Hugging Face Transformers, Datasets
 
 ## 🚀 Key Steps in the Notebook
 1. **Environment Setup & Dependencies:** Installing necessary libraries and authenticating with APIs or model hubs.
